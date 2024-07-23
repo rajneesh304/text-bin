@@ -3,13 +3,18 @@ package com.rajneesh304.textStore.model;
 import jakarta.persistence.ElementCollection;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
+
+import org.apache.logging.log4j.core.config.plugins.validation.constraints.NotBlank;
 import org.springframework.data.mongodb.core.index.Indexed;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.time.Instant;
-import java.util.Date;
 import java.util.List;
 import java.util.UUID;
+
+import jakarta.validation.constraints.NotEmpty;
+import jakarta.validation.constraints.NotNull;
+import jakarta.validation.constraints.Size;
 
 @Entity
 @Document(collection = "Text")
@@ -17,12 +22,15 @@ public class Text {
 
     @Id
     private String id;
+    @NotEmpty(message = "text is a required field")
     private String text;
+    @NotEmpty(message = "userId is a required field")
     private String userId;
     @Indexed(name = "expire_at_index", expireAfterSeconds = 0)
     private Instant expireAt; // Field to store expiration date
     @ElementCollection
     private List<String> tags;
+    @NotEmpty(message = "exposure is a required field")
     private String exposure; // can take 3 values - private/unlisted/public
     private String category; // Enum of a list of values it can take. Need separate endpoint for it
 
