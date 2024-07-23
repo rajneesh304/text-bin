@@ -1,0 +1,344 @@
+2024-07-21 12:24:14 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:14 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:14 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:14 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:14 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:14 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@71e87d76, com.rajneesh304.textStore.model.Text@502d41b1, com.r (truncated)...]
+2024-07-21 12:24:14 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:15 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:15 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:15 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:15 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:15 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:15 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@189101db, com.rajneesh304.textStore.model.Text@7d411131, com.r (truncated)...]
+2024-07-21 12:24:15 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:16 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:16 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:16 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:16 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:16 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:16 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@211001eb, com.rajneesh304.textStore.model.Text@63194d86, com.r (truncated)...]
+2024-07-21 12:24:16 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:16 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:16 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:16 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:16 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:16 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:16 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@67370a7, com.rajneesh304.textStore.model.Text@6baabcf1, com.ra (truncated)...]
+2024-07-21 12:24:16 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:20 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:20 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:20 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:20 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:20 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:20 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@6b460021, com.rajneesh304.textStore.model.Text@5114872e, com.r (truncated)...]
+2024-07-21 12:24:20 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:21 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:21 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:21 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:21 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:21 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:21 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@6403cdda, com.rajneesh304.textStore.model.Text@7e78ea6e, com.r (truncated)...]
+2024-07-21 12:24:21 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:21 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:21 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:21 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:21 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:21 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:21 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@7f60d34f, com.rajneesh304.textStore.model.Text@6632c77, com.ra (truncated)...]
+2024-07-21 12:24:21 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:21 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:21 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:21 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:21 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:21 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:21 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@11faccca, com.rajneesh304.textStore.model.Text@4029f0a, com.ra (truncated)...]
+2024-07-21 12:24:21 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:21 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:21 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:21 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:21 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:21 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:21 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@268c34bd, com.rajneesh304.textStore.model.Text@173ec133, com.r (truncated)...]
+2024-07-21 12:24:21 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:22 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:22 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:22 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:22 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:22 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:22 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@34719d85, com.rajneesh304.textStore.model.Text@5c9b955a, com.r (truncated)...]
+2024-07-21 12:24:22 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:22 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:22 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:22 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:22 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:22 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:22 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@eac9556, com.rajneesh304.textStore.model.Text@3c9d4a38, com.ra (truncated)...]
+2024-07-21 12:24:22 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:22 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:22 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:22 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:22 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:22 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:22 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@349a7889, com.rajneesh304.textStore.model.Text@24953818, com.r (truncated)...]
+2024-07-21 12:24:22 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:22 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:22 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:22 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:22 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:22 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:22 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@ad49221, com.rajneesh304.textStore.model.Text@2beac5c9, com.ra (truncated)...]
+2024-07-21 12:24:22 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:22 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:22 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:22 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:22 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:22 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:22 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@32960bff, com.rajneesh304.textStore.model.Text@2ffda342, com.r (truncated)...]
+2024-07-21 12:24:22 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:22 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:22 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:22 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:22 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:22 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:22 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@298ac3e1, com.rajneesh304.textStore.model.Text@729689f9, com.r (truncated)...]
+2024-07-21 12:24:22 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:23 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:23 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:23 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:23 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:23 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:23 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@69eaed21, com.rajneesh304.textStore.model.Text@2a0f7d6d, com.r (truncated)...]
+2024-07-21 12:24:23 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:23 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:23 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:23 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:23 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:23 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:23 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@3c988f61, com.rajneesh304.textStore.model.Text@459bd916, com.r (truncated)...]
+2024-07-21 12:24:23 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:23 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:23 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:23 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:23 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:23 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:23 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@7c37e69c, com.rajneesh304.textStore.model.Text@3bece94c, com.r (truncated)...]
+2024-07-21 12:24:23 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:23 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:23 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:23 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:23 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:23 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:23 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@51d949a7, com.rajneesh304.textStore.model.Text@1637a6fd, com.r (truncated)...]
+2024-07-21 12:24:23 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:23 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:23 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:23 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:23 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:23 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:23 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@164dd0e5, com.rajneesh304.textStore.model.Text@2e68ea1c, com.r (truncated)...]
+2024-07-21 12:24:23 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:23 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:23 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:23 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:23 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:23 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:23 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@22b176dd, com.rajneesh304.textStore.model.Text@485d51f8, com.r (truncated)...]
+2024-07-21 12:24:23 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:24 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:24 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:24 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:24 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:24 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:24 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@2307f9f1, com.rajneesh304.textStore.model.Text@44be9328, com.r (truncated)...]
+2024-07-21 12:24:24 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:24 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:24 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:24 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:24 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:24 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:24 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@e50626a, com.rajneesh304.textStore.model.Text@203bbc1b, com.ra (truncated)...]
+2024-07-21 12:24:24 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:25 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:25 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:25 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:25 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:25 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:25 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:25 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:25 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:25 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@6b0b109, com.rajneesh304.textStore.model.Text@47b8bd3, com.raj (truncated)...]
+2024-07-21 12:24:25 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:25 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:25 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:25 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@6c274ba8, com.rajneesh304.textStore.model.Text@13cd1806, com.r (truncated)...]
+2024-07-21 12:24:25 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:25 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:25 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:25 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:25 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:25 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:25 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@6e44864, com.rajneesh304.textStore.model.Text@38592e7c, com.ra (truncated)...]
+2024-07-21 12:24:25 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:25 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:25 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:25 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:25 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:25 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:25 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@5dab7d52, com.rajneesh304.textStore.model.Text@25b01201, com.r (truncated)...]
+2024-07-21 12:24:25 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:28 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:28 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:28 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:28 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:28 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:28 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@46ac5317, com.rajneesh304.textStore.model.Text@56c4e58, com.ra (truncated)...]
+2024-07-21 12:24:28 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:32 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:32 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:32 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:32 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:32 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:32 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@68ab3399, com.rajneesh304.textStore.model.Text@7324cb5a, com.r (truncated)...]
+2024-07-21 12:24:32 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:34 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:34 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:34 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:34 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:34 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:34 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@34facaac, com.rajneesh304.textStore.model.Text@4cc8ee2e, com.r (truncated)...]
+2024-07-21 12:24:34 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:55 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:55 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:55 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:55 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:55 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:55 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@255d1066, com.rajneesh304.textStore.model.Text@cf38d8e, com.ra (truncated)...]
+2024-07-21 12:24:55 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:56 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:56 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:56 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:56 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:56 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:56 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@5bb5932c, com.rajneesh304.textStore.model.Text@476121da, com.r (truncated)...]
+2024-07-21 12:24:56 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:56 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:56 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:56 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:56 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:56 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:56 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@69423e17, com.rajneesh304.textStore.model.Text@648c5267, com.r (truncated)...]
+2024-07-21 12:24:56 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:57 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:57 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:57 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:57 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:57 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:57 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@214c2d01, com.rajneesh304.textStore.model.Text@22f7e8d8, com.r (truncated)...]
+2024-07-21 12:24:57 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:57 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:57 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:57 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:57 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:57 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:57 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@2082f0c2, com.rajneesh304.textStore.model.Text@76ae8571, com.r (truncated)...]
+2024-07-21 12:24:57 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:58 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:58 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:58 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:58 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:58 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:58 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@120c366b, com.rajneesh304.textStore.model.Text@368ffb26, com.r (truncated)...]
+2024-07-21 12:24:58 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:58 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:58 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:58 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:58 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:58 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:58 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@462ee034, com.rajneesh304.textStore.model.Text@4069544e, com.r (truncated)...]
+2024-07-21 12:24:58 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:58 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:58 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:58 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:58 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:58 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:58 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@4452c88d, com.rajneesh304.textStore.model.Text@60c21ffb, com.r (truncated)...]
+2024-07-21 12:24:58 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:58 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:58 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:58 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:58 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:58 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:58 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@21c5618f, com.rajneesh304.textStore.model.Text@1043b9d5, com.r (truncated)...]
+2024-07-21 12:24:58 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:58 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:58 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:58 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:58 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:58 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:58 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@47fc3d37, com.rajneesh304.textStore.model.Text@253130ce, com.r (truncated)...]
+2024-07-21 12:24:58 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:58 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:58 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:58 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:58 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:58 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:58 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@81079fe, com.rajneesh304.textStore.model.Text@450386ba, com.ra (truncated)...]
+2024-07-21 12:24:58 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:59 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:59 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:59 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:59 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:59 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:59 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@f5ad9a2, com.rajneesh304.textStore.model.Text@78811796, com.ra (truncated)...]
+2024-07-21 12:24:59 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:59 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:59 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:59 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:59 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:59 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:59 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@53e84bd5, com.rajneesh304.textStore.model.Text@2ba27539, com.r (truncated)...]
+2024-07-21 12:24:59 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:24:59 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:24:59 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:24:59 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:24:59 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:24:59 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:24:59 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@4a99d11d, com.rajneesh304.textStore.model.Text@afdd96a, com.ra (truncated)...]
+2024-07-21 12:24:59 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-21 12:25:00 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-21 12:25:00 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-21 12:25:00 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-21 12:25:00 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-21 12:25:00 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-21 12:25:00 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@4c5dd14c, com.rajneesh304.textStore.model.Text@7b6e3ce5, com.r (truncated)...]
+2024-07-21 12:25:00 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2024-07-20 12:25:29 INFO  org.mongodb.driver.cluster - Exception in monitor thread while connecting to server localhost:27017
+com.mongodb.MongoSocketReadTimeoutException: Timeout while receiving message
+	at com.mongodb.internal.connection.InternalStreamConnection.translateReadException(InternalStreamConnection.java:705)
+	at com.mongodb.internal.connection.InternalStreamConnection.receiveMessageWithAdditionalTimeout(InternalStreamConnection.java:583)
+	at com.mongodb.internal.connection.InternalStreamConnection.receiveCommandMessageResponse(InternalStreamConnection.java:428)
+	at com.mongodb.internal.connection.InternalStreamConnection.receive(InternalStreamConnection.java:381)
+	at com.mongodb.internal.connection.DefaultServerMonitor$ServerMonitorRunnable.lookupServerDescription(DefaultServerMonitor.java:221)
+	at com.mongodb.internal.connection.DefaultServerMonitor$ServerMonitorRunnable.run(DefaultServerMonitor.java:153)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.base/sun.nio.ch.NioSocketImpl.timedRead(NioSocketImpl.java:278)
+	at java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:304)
+	at java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:346)
+	at java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:796)
+	at java.base/java.net.Socket$SocketInputStream.implRead(Socket.java:1108)
+	at java.base/java.net.Socket$SocketInputStream.read(Socket.java:1095)
+	at com.mongodb.internal.connection.SocketStream.read(SocketStream.java:176)
+	at com.mongodb.internal.connection.SocketStream.read(SocketStream.java:196)
+	at com.mongodb.internal.connection.InternalStreamConnection.receiveResponseBuffers(InternalStreamConnection.java:716)
+	at com.mongodb.internal.connection.InternalStreamConnection.receiveMessageWithAdditionalTimeout(InternalStreamConnection.java:580)
+	... 5 common frames omitted
+2024-07-20 12:25:29 INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=21, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=1836700}
+2024-07-20 12:25:42 DEBUG o.s.web.servlet.DispatcherServlet - GET "/texts", parameters={}
+2024-07-20 12:25:42 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.rajneesh304.textStore.controller.TextController#getText(String, String, List)
+2024-07-20 12:25:42 INFO  c.r.t.controller.TextController - Received request with exposure: null, criteria: null, tags: null
+2024-07-20 12:25:42 INFO  c.r.t.controller.TextController - Returning 3 texts
+2024-07-20 12:25:42 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-07-20 12:25:42 DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [[com.rajneesh304.textStore.model.Text@48778d00, com.rajneesh304.textStore.model.Text@3bbb450b, com.r (truncated)...]
+2024-07-20 12:25:42 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
