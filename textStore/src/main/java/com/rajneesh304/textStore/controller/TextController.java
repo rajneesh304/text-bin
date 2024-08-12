@@ -3,6 +3,7 @@ package com.rajneesh304.textStore.controller;
 import com.rajneesh304.textStore.dao.TextRepo;
 import com.rajneesh304.textStore.model.Text;
 import com.rajneesh304.textStore.service.TextService;
+import jakarta.validation.Valid;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -64,8 +65,11 @@ public class TextController {
     }
 
     @PostMapping(path = "/texts")
-    public ResponseEntity<Text> createText(@RequestBody Text text, @RequestParam(required = false) Long expireAfterMillis){
-        textService.createText(text, expireAfterMillis);
+    public ResponseEntity<Text> createText(@RequestBody @Valid Text text, @RequestParam(required = false) Long expireAfterMillis){
+        logger.error(text.toString());
+        if(textService.createText(text, expireAfterMillis) == null){
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).build();
+        }
         return ResponseEntity.status(HttpStatus.CREATED).body(text);
     }
 
